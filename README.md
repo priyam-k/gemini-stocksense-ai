@@ -52,6 +52,8 @@ Our goal: make investing **less intimidating** and **more empowering** for every
 ---
 
 ## ⚙️ Installation & Usage  
+Either go to [https://stocksense-ai--priyam-k.github.app/](https://stocksense-ai--priyam-k.github.app/)
+OR
 Clone the repository and start the development server:
 
 ```bash
